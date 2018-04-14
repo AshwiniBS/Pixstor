@@ -1,0 +1,12 @@
+canvas {
+  margin: auto;
+  background: #ececec;
+  width: 100%;
+}
+
+.btn-disabled {
+  color: #fff !important;
+}
+.navbar-brand{
+	text-align: center !important;
+}
