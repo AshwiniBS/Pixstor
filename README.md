@@ -15,7 +15,6 @@
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg?style=for-the-badge)](https://github.com/AshwiniBS/Pixstor)
 
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/google/skia/infra/config.svg?style=flat-square)](https://github.com/AshwiniBS/Pixstor/master)
 
 </p>
 
